@@ -99,8 +99,8 @@ Resolve the platform issues reported by `flutter doctor` before continuing.
 ### 1. Clone both repositories
 
 ```bash
-git clone https://github.com/your-username/agri-advisor-backend.git
-git clone https://github.com/your-username/agri-advisor-frontend.git
+git clone https://github.com/wellsmzati-create/agri-advisor-backend.git  
+git clone https://github.com/wellsmzati-create/agri-advisor-frontend.git
 ```
 
 Replace `your-username` with the actual GitHub organization or username.
