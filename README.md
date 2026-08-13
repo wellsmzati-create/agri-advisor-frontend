@@ -2,7 +2,7 @@
 
 A cross-platform Flutter client for the AgriAdvisor agricultural advisory system. It provides a farmer-focused mobile experience together with responsive advisor and Extension Planning Area (EPA) workspaces, all backed by the companion Laravel REST API.
 
-> **Backend API:** [AgriAdvisor Backend](https://github.com/your-username/agri-advisor-backend)
+> **Backend API:** [AgriAdvisor Backend](https://github.com/wellsmzati-create/agri-advisor-backend.git)
 >
 > Replace `your-username` with the owning GitHub account after both repositories are published.
 
@@ -11,7 +11,7 @@ A cross-platform Flutter client for the AgriAdvisor agricultural advisory system
 | Component | Technology | Repository |
 | --- | --- | --- |
 | Frontend | Flutter and Dart | This repository |
-| Backend API | Laravel and PHP | [AgriAdvisor Backend](https://github.com/your-username/agri-advisor-backend) |
+| Backend API | Laravel and PHP | [AgriAdvisor Backend](https://github.com/wellsmzati-create/agri-advisor-backend.git) |
 
 The backend must be running and reachable for authentication and application data. Protected requests use Laravel Sanctum bearer tokens and the versioned `/api/v1` API.
 
@@ -84,7 +84,7 @@ Additional project documentation is available in:
 - Git
 - Android Studio and the Android SDK for Android development
 - Chrome for Flutter web development
-- A running copy of the [AgriAdvisor backend](https://github.com/your-username/agri-advisor-backend)
+- A running copy of the [AgriAdvisor backend](https://github.com/wellsmzati-create/agri-advisor-backend.git)
 - An Android emulator, physical Android device, or supported browser
 
 Install Flutter using the [official Flutter setup guide](https://docs.flutter.dev/get-started/install), then verify the toolchain:
@@ -109,7 +109,7 @@ Replace `your-username` with the actual GitHub organization or username.
 
 ### 2. Start the Laravel backend
 
-Follow the complete installation guide in the [backend README](https://github.com/your-username/agri-advisor-backend#backend-installation). At minimum:
+Follow the complete installation guide in the [backend README](https://github.com/wellsmzati-create/agri-advisor-backend#backend-installation). At minimum:
 
 ```bash
 cd agri-advisor-backend
