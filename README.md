@@ -4,8 +4,6 @@ A cross-platform Flutter client for the AgriAdvisor agricultural advisory system
 
 > **Backend API:** [AgriAdvisor Backend](https://github.com/wellsmzati-create/agri-advisor-backend.git)
 >
-> Replace `your-username` with the owning GitHub account after both repositories are published.
-
 ## System repositories
 
 | Component | Technology | Repository |
